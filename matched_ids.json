@@ -1,0 +1,2377 @@
+﻿[
+    {
+        "id":  "0010",
+        "name":  "assisted hanging knee raise with throw down",
+        "equipment":  "assisted"
+    },
+    {
+        "id":  "0012",
+        "name":  "assisted lying leg raise with lateral throw down",
+        "equipment":  "assisted"
+    },
+    {
+        "id":  "0013",
+        "name":  "assisted lying leg raise with throw down",
+        "equipment":  "assisted"
+    },
+    {
+        "id":  "0968",
+        "name":  "band alternating biceps curl",
+        "equipment":  "band"
+    },
+    {
+        "id":  "1254",
+        "name":  "band bench press",
+        "equipment":  "band"
+    },
+    {
+        "id":  "0976",
+        "name":  "band concentration curl",
+        "equipment":  "band"
+    },
+    {
+        "id":  "0986",
+        "name":  "band one arm overhead biceps curl",
+        "equipment":  "band"
+    },
+    {
+        "id":  "0987",
+        "name":  "band one arm single leg split squat",
+        "equipment":  "band"
+    },
+    {
+        "id":  "0988",
+        "name":  "band one arm standing low row",
+        "equipment":  "band"
+    },
+    {
+        "id":  "0990",
+        "name":  "band one arm twisting seated row",
+        "equipment":  "band"
+    },
+    {
+        "id":  "0994",
+        "name":  "band reverse wrist curl",
+        "equipment":  "band"
+    },
+    {
+        "id":  "0997",
+        "name":  "band shoulder press",
+        "equipment":  "band"
+    },
+    {
+        "id":  "1001",
+        "name":  "band single leg split squat",
+        "equipment":  "band"
+    },
+    {
+        "id":  "1004",
+        "name":  "band squat",
+        "equipment":  "band"
+    },
+    {
+        "id":  "1003",
+        "name":  "band squat row",
+        "equipment":  "band"
+    },
+    {
+        "id":  "1022",
+        "name":  "band standing rear delt row",
+        "equipment":  "band"
+    },
+    {
+        "id":  "1009",
+        "name":  "band stiff leg deadlift",
+        "equipment":  "band"
+    },
+    {
+        "id":  "1023",
+        "name":  "band straight back stiff leg deadlift",
+        "equipment":  "band"
+    },
+    {
+        "id":  "1010",
+        "name":  "band straight leg deadlift",
+        "equipment":  "band"
+    },
+    {
+        "id":  "1016",
+        "name":  "band wrist curl",
+        "equipment":  "band"
+    },
+    {
+        "id":  "0023",
+        "name":  "barbell alternate biceps curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0024",
+        "name":  "barbell bench front squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0025",
+        "name":  "barbell bench press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0026",
+        "name":  "barbell bench squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0027",
+        "name":  "barbell bent over row",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "2407",
+        "name":  "barbell biceps curl (with arm blaster)",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0029",
+        "name":  "barbell clean-grip front squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0030",
+        "name":  "barbell close-grip bench press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0031",
+        "name":  "barbell curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0032",
+        "name":  "barbell deadlift",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0033",
+        "name":  "barbell decline bench press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0038",
+        "name":  "barbell drag curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0039",
+        "name":  "barbell front chest squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0042",
+        "name":  "barbell front squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0043",
+        "name":  "barbell full squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1461",
+        "name":  "barbell full squat (back pov)",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1462",
+        "name":  "barbell full squat (side pov)",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1545",
+        "name":  "barbell full zercher squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0045",
+        "name":  "barbell guillotine bench press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0046",
+        "name":  "barbell hack squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1436",
+        "name":  "barbell high bar squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0047",
+        "name":  "barbell incline bench press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1719",
+        "name":  "barbell incline close grip bench press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0049",
+        "name":  "barbell incline row",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0051",
+        "name":  "barbell jefferson squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0052",
+        "name":  "barbell jm bench press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0053",
+        "name":  "barbell jump squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1410",
+        "name":  "barbell lateral lunge",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1435",
+        "name":  "barbell low bar squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0054",
+        "name":  "barbell lunge",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0059",
+        "name":  "barbell lying preacher curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0063",
+        "name":  "barbell narrow stance squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0064",
+        "name":  "barbell one arm bent over row",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0066",
+        "name":  "barbell one arm side deadlift",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0068",
+        "name":  "barbell one leg squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0069",
+        "name":  "barbell overhead squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1411",
+        "name":  "barbell palms down wrist curl over a bench",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1412",
+        "name":  "barbell palms up wrist curl over a bench",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "3017",
+        "name":  "barbell pendlay row",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0070",
+        "name":  "barbell preacher curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0072",
+        "name":  "barbell prone incline curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0076",
+        "name":  "barbell rear delt row",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0078",
+        "name":  "barbell rear lunge",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0077",
+        "name":  "barbell rear lunge v. 2",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0079",
+        "name":  "barbell revers wrist curl v. 2",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "2187",
+        "name":  "barbell reverse close-grip bench press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0080",
+        "name":  "barbell reverse curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0118",
+        "name":  "barbell reverse grip bent over row",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1256",
+        "name":  "barbell reverse grip decline bench press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1257",
+        "name":  "barbell reverse grip incline bench press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1317",
+        "name":  "barbell reverse grip incline bench row",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0081",
+        "name":  "barbell reverse preacher curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0082",
+        "name":  "barbell reverse wrist curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0085",
+        "name":  "barbell romanian deadlift",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0086",
+        "name":  "barbell seated behind head military press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0089",
+        "name":  "barbell seated close-grip concentration curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0098",
+        "name":  "barbell side split squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0097",
+        "name":  "barbell side split squat v. 2",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1756",
+        "name":  "barbell single leg deadlift",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0099",
+        "name":  "barbell single leg split squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0101",
+        "name":  "barbell speed squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "2810",
+        "name":  "barbell split squat v. 2",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0102",
+        "name":  "barbell squat (on knees)",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "2798",
+        "name":  "barbell squat jump step rear lunge",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0104",
+        "name":  "barbell standing back wrist curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0106",
+        "name":  "barbell standing close grip curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1456",
+        "name":  "barbell standing close grip military press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "2414",
+        "name":  "barbell standing concentration curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0110",
+        "name":  "barbell standing reverse grip curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1629",
+        "name":  "barbell standing wide grip biceps curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1457",
+        "name":  "barbell standing wide military press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0113",
+        "name":  "barbell standing wide-grip curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0116",
+        "name":  "barbell straight leg deadlift",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0117",
+        "name":  "barbell sumo deadlift",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0120",
+        "name":  "barbell upright row",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0119",
+        "name":  "barbell upright row v. 2",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0121",
+        "name":  "barbell upright row v. 3",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0122",
+        "name":  "barbell wide bench press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1258",
+        "name":  "barbell wide reverse grip bench press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0124",
+        "name":  "barbell wide squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0123",
+        "name":  "barbell wide-grip upright row",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0126",
+        "name":  "barbell wrist curl",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0125",
+        "name":  "barbell wrist curl v. 2",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0127",
+        "name":  "barbell zercher squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1770",
+        "name":  "biceps leg concentration curl",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0139",
+        "name":  "biceps narrow pull-ups",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3543",
+        "name":  "bodyweight drop jump squat",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1769",
+        "name":  "bodyweight side lying biceps curl",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3168",
+        "name":  "bodyweight squatting row",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3167",
+        "name":  "bodyweight squatting row (with towel)",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3156",
+        "name":  "bodyweight standing close-grip one arm row",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3158",
+        "name":  "bodyweight standing close-grip row",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3162",
+        "name":  "bodyweight standing one arm row",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3161",
+        "name":  "bodyweight standing one arm row (with towel)",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3166",
+        "name":  "bodyweight standing row",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3165",
+        "name":  "bodyweight standing row (with towel)",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0148",
+        "name":  "cable alternate shoulder press",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "3235",
+        "name":  "cable assisted inverse leg curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0151",
+        "name":  "cable bench press",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1630",
+        "name":  "cable close grip curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1631",
+        "name":  "cable concentration curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0868",
+        "name":  "cable curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0157",
+        "name":  "cable deadlift",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0159",
+        "name":  "cable decline seated wide-grip row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1632",
+        "name":  "cable drag curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0160",
+        "name":  "cable floor seated wide-grip row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0165",
+        "name":  "cable hammer curl (with rope)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0167",
+        "name":  "cable high row (kneeling)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0169",
+        "name":  "cable incline bench press",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1318",
+        "name":  "cable incline bench row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0172",
+        "name":  "cable incline pushdown",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0860",
+        "name":  "cable kickback",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "3697",
+        "name":  "cable kneeling rear delt row (with rope) (male)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0180",
+        "name":  "cable low seated row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1634",
+        "name":  "cable lying bicep curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0182",
+        "name":  "cable lying close-grip curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0189",
+        "name":  "cable one arm bent over row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0190",
+        "name":  "cable one arm curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1633",
+        "name":  "cable one arm preacher curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1635",
+        "name":  "cable one arm reverse preacher curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0193",
+        "name":  "cable one arm straight back high row (kneeling)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1723",
+        "name":  "cable one arm tricep pushdown",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1636",
+        "name":  "cable overhead curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1637",
+        "name":  "cable overhead curl on exercise ball",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1319",
+        "name":  "cable palm rotational row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0195",
+        "name":  "cable preacher curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1638",
+        "name":  "cable pulldown bicep curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0201",
+        "name":  "cable pushdown",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0199",
+        "name":  "cable pushdown (straight arm) v. 2",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0200",
+        "name":  "cable pushdown (with rope attachment)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0202",
+        "name":  "cable rear delt row (stirrups)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0203",
+        "name":  "cable rear delt row (with rope)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0206",
+        "name":  "cable reverse curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "2406",
+        "name":  "cable reverse grip triceps pushdown (sz-bar) (with arm blaster)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1413",
+        "name":  "cable reverse one arm curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0209",
+        "name":  "cable reverse preacher curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0210",
+        "name":  "cable reverse wrist curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0207",
+        "name":  "cable reverse-grip pushdown",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0208",
+        "name":  "cable reverse-grip straight back seated high row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1320",
+        "name":  "cable rope crossover seated row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1321",
+        "name":  "cable rope elevated seated row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1322",
+        "name":  "cable rope extension incline bench row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1639",
+        "name":  "cable rope hammer preacher curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1640",
+        "name":  "cable rope one arm hammer preacher curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1323",
+        "name":  "cable rope seated row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1641",
+        "name":  "cable seated curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0213",
+        "name":  "cable seated high row (v-bar)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0214",
+        "name":  "cable seated one arm alternate row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1642",
+        "name":  "cable seated one arm concentration curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1643",
+        "name":  "cable seated overhead curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0861",
+        "name":  "cable seated row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0218",
+        "name":  "cable seated wide-grip row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0219",
+        "name":  "cable shoulder press",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1717",
+        "name":  "cable squat row (with rope attachment)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1644",
+        "name":  "cable squatting curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0224",
+        "name":  "cable standing back wrist curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0229",
+        "name":  "cable standing inner curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0233",
+        "name":  "cable standing rear delt row (with rope)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0234",
+        "name":  "cable standing row (v-bar)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0236",
+        "name":  "cable standing twist row (v-bar)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0239",
+        "name":  "cable straight back seated row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "2464",
+        "name":  "cable thibaudeau kayak row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0241",
+        "name":  "cable triceps pushdown (v-bar)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "2405",
+        "name":  "cable triceps pushdown (v-bar) (with arm blaster)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1645",
+        "name":  "cable two arm curl on incline bench",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1728",
+        "name":  "cable two arm tricep kickback",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1324",
+        "name":  "cable upper row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0246",
+        "name":  "cable upright row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0247",
+        "name":  "cable wrist curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0248",
+        "name":  "cambered bar lying row",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0253",
+        "name":  "chin-ups (narrow parallel grip)",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3016",
+        "name":  "curl-up",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3769",
+        "name":  "curtsey squat",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0285",
+        "name":  "dumbbell alternate biceps curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "2403",
+        "name":  "dumbbell alternate biceps curl (with arm blaster)",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1646",
+        "name":  "dumbbell alternate hammer preacher curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1647",
+        "name":  "dumbbell alternate preacher curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1648",
+        "name":  "dumbbell alternate seated hammer curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1649",
+        "name":  "dumbbell alternating bicep curl with leg raised on exercise ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1650",
+        "name":  "dumbbell alternating seated bicep curl on exercise ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0289",
+        "name":  "dumbbell bench press",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0291",
+        "name":  "dumbbell bench squat",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0293",
+        "name":  "dumbbell bent over row",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1651",
+        "name":  "dumbbell bicep curl lunge with bowling motion",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1652",
+        "name":  "dumbbell bicep curl on exercise ball with leg raised",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1653",
+        "name":  "dumbbell bicep curl with stork stance",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0294",
+        "name":  "dumbbell biceps curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "2401",
+        "name":  "dumbbell biceps curl (with arm blaster)",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1654",
+        "name":  "dumbbell biceps curl reverse",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1655",
+        "name":  "dumbbell biceps curl squat",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1656",
+        "name":  "dumbbell biceps curl v sit on bosu ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0297",
+        "name":  "dumbbell concentration curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "3635",
+        "name":  "dumbbell contralateral forward lunge",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0298",
+        "name":  "dumbbell cross body hammer curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1657",
+        "name":  "dumbbell cross body hammer curl v. 2",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0300",
+        "name":  "dumbbell deadlift",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0301",
+        "name":  "dumbbell decline bench press",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1437",
+        "name":  "dumbbell finger curls",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1732",
+        "name":  "dumbbell forward lunge triceps extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1760",
+        "name":  "dumbbell goblet squat",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0313",
+        "name":  "dumbbell hammer curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1659",
+        "name":  "dumbbell hammer curl on exercise ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0312",
+        "name":  "dumbbell hammer curl v. 2",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "2402",
+        "name":  "dumbbell hammer curls (with arm blaster)",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1664",
+        "name":  "dumbbell high curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0314",
+        "name":  "dumbbell incline bench press",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0315",
+        "name":  "dumbbell incline biceps curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0318",
+        "name":  "dumbbell incline curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0317",
+        "name":  "dumbbell incline curl v. 2",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0320",
+        "name":  "dumbbell incline hammer curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0322",
+        "name":  "dumbbell incline inner biceps curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0327",
+        "name":  "dumbbell incline row",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0333",
+        "name":  "dumbbell kickback",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1734",
+        "name":  "dumbbell kickbacks on exercise ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1660",
+        "name":  "dumbbell kneeling bicep curl exercise ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0336",
+        "name":  "dumbbell lunge",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1658",
+        "name":  "dumbbell lunge with bicep curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1328",
+        "name":  "dumbbell lying rear delt row",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1661",
+        "name":  "dumbbell lying supine biceps curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0350",
+        "name":  "dumbbell lying supine curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1662",
+        "name":  "dumbbell lying wide curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0352",
+        "name":  "dumbbell neutral grip bench press",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0292",
+        "name":  "dumbbell one arm bent-over row",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0353",
+        "name":  "dumbbell one arm concentration curl (on stability ball)",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1663",
+        "name":  "dumbbell one arm hammer preacher curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0354",
+        "name":  "dumbbell one arm kickback",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1665",
+        "name":  "dumbbell one arm prone curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1666",
+        "name":  "dumbbell one arm prone hammer curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0358",
+        "name":  "dumbbell one arm reverse wrist curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1414",
+        "name":  "dumbbell one arm reverse preacher curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1667",
+        "name":  "dumbbell one arm reverse spider curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1668",
+        "name":  "dumbbell one arm seated bicep curl on exercise ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1669",
+        "name":  "dumbbell one arm seated hammer curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1415",
+        "name":  "dumbbell one arm seated neutral wrist curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0361",
+        "name":  "dumbbell one arm shoulder press",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0360",
+        "name":  "dumbbell one arm shoulder press v. 2",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1670",
+        "name":  "dumbbell one arm standing curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1671",
+        "name":  "dumbbell one arm standing hammer curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0363",
+        "name":  "dumbbell one arm upright row",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0364",
+        "name":  "dumbbell one arm wrist curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1672",
+        "name":  "dumbbell one arm zottman preacher curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0365",
+        "name":  "dumbbell over bench neutral wrist curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0366",
+        "name":  "dumbbell over bench one arm neutral wrist curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1441",
+        "name":  "dumbbell over bench one arm reverse wrist curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0367",
+        "name":  "dumbbell over bench one arm wrist curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0368",
+        "name":  "dumbbell over bench revers wrist curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0369",
+        "name":  "dumbbell over bench wrist curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1329",
+        "name":  "dumbbell palm rotational bent over row",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1623",
+        "name":  "dumbbell palms in incline bench press",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0370",
+        "name":  "dumbbell peacher hammer curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0371",
+        "name":  "dumbbell plyo squat",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0372",
+        "name":  "dumbbell preacher curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1673",
+        "name":  "dumbbell preacher curl over exercise ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0374",
+        "name":  "dumbbell prone incline curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1674",
+        "name":  "dumbbell prone incline hammer curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0377",
+        "name":  "dumbbell rear delt row_shoulder",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0381",
+        "name":  "dumbbell rear lunge",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0382",
+        "name":  "dumbbell revers grip biceps curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1624",
+        "name":  "dumbbell reverse bench press",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1330",
+        "name":  "dumbbell reverse grip incline bench one arm row",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1331",
+        "name":  "dumbbell reverse grip incline bench two arm row",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "2327",
+        "name":  "dumbbell reverse grip row (female)",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0384",
+        "name":  "dumbbell reverse preacher curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1675",
+        "name":  "dumbbell reverse spider curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0385",
+        "name":  "dumbbell reverse wrist curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1459",
+        "name":  "dumbbell romanian deadlift",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1676",
+        "name":  "dumbbell seated alternate hammer curl on exercise ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1730",
+        "name":  "dumbbell seated bent over alternate kickback",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1677",
+        "name":  "dumbbell seated bicep curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0390",
+        "name":  "dumbbell seated biceps curl (on stability ball)",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "3547",
+        "name":  "dumbbell seated biceps curl to shoulder press",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0391",
+        "name":  "dumbbell seated curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1678",
+        "name":  "dumbbell seated hammer curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0393",
+        "name":  "dumbbell seated inner biceps curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0394",
+        "name":  "dumbbell seated kickback",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0397",
+        "name":  "dumbbell seated neutral wrist curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1679",
+        "name":  "dumbbell seated one arm bicep curl on exercise ball with leg raised",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0398",
+        "name":  "dumbbell seated one arm kickback",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0401",
+        "name":  "dumbbell seated palms up wrist curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0402",
+        "name":  "dumbbell seated preacher curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0403",
+        "name":  "dumbbell seated revers grip concentration curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0405",
+        "name":  "dumbbell seated shoulder press",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0404",
+        "name":  "dumbbell seated shoulder press (parallel grip)",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1757",
+        "name":  "dumbbell single leg deadlift",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "2805",
+        "name":  "dumbbell single leg deadlift with stepbox support",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0410",
+        "name":  "dumbbell single leg split squat",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0411",
+        "name":  "dumbbell single leg squat",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0413",
+        "name":  "dumbbell squat",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "3560",
+        "name":  "dumbbell standing alternate hammer curl and press",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1739",
+        "name":  "dumbbell standing alternating tricep kickback",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0416",
+        "name":  "dumbbell standing biceps curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0418",
+        "name":  "dumbbell standing concentration curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "2321",
+        "name":  "dumbbell standing inner biceps curl v. 2",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0420",
+        "name":  "dumbbell standing kickback",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0421",
+        "name":  "dumbbell standing one arm concentration curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0422",
+        "name":  "dumbbell standing one arm curl (over incline bench)",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1680",
+        "name":  "dumbbell standing one arm curl over incline bench",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0425",
+        "name":  "dumbbell standing one arm reverse curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0428",
+        "name":  "dumbbell standing preacher curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0429",
+        "name":  "dumbbell standing reverse curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "2293",
+        "name":  "dumbbell standing zottman preacher curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1684",
+        "name":  "dumbbell step up single leg balance with bicep curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "2796",
+        "name":  "dumbbell step-up lunge",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "2812",
+        "name":  "dumbbell step-up split squat",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0432",
+        "name":  "dumbbell stiff leg deadlift",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0434",
+        "name":  "dumbbell straight leg deadlift",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "2803",
+        "name":  "dumbbell supported squat",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1742",
+        "name":  "dumbbell tricep kickback with stork stance",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1743",
+        "name":  "dumbbell twisting bench press",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0437",
+        "name":  "dumbbell upright row",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1765",
+        "name":  "dumbbell upright row (back pov)",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "5201",
+        "name":  "dumbbell waiter biceps curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0439",
+        "name":  "dumbbell zottman curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "2294",
+        "name":  "dumbbell zottman preacher curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1417",
+        "name":  "exercise ball one legged diagonal kick hamstring curl",
+        "equipment":  "stability ball"
+    },
+    {
+        "id":  "1344",
+        "name":  "ez bar reverse grip bent over row",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "1682",
+        "name":  "ez bar seated close grip concentration curl",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "1627",
+        "name":  "ez barbell close grip preacher curl",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "0446",
+        "name":  "ez barbell close-grip curl",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "0447",
+        "name":  "ez barbell curl",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "0450",
+        "name":  "ez barbell jm bench press",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "0451",
+        "name":  "ez barbell reverse grip curl",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "0452",
+        "name":  "ez barbell reverse grip preacher curl",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "1458",
+        "name":  "ez barbell seated curls",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "0454",
+        "name":  "ez barbell spider curl",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "1628",
+        "name":  "ez barbell spider curl",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "2404",
+        "name":  "ez-bar biceps curl (with arm blaster)",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "2432",
+        "name":  "ez-bar close-grip bench press",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "2741",
+        "name":  "ez-barbell standing wide grip biceps curl",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "0455",
+        "name":  "finger curls",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "3470",
+        "name":  "forward lunge (male)",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3194",
+        "name":  "frankenstein squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0496",
+        "name":  "inverse leg curl (bench support)",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "2400",
+        "name":  "inverse leg curl (on pull-up cable machine)",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0499",
+        "name":  "inverted row",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "2300",
+        "name":  "inverted row bent knees",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "2298",
+        "name":  "inverted row on bench",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0497",
+        "name":  "inverted row v. 2",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0498",
+        "name":  "inverted row with straps",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0514",
+        "name":  "jump squat",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0513",
+        "name":  "jump squat v. 2",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0521",
+        "name":  "kettlebell alternating renegade row",
+        "equipment":  "kettlebell"
+    },
+    {
+        "id":  "0522",
+        "name":  "kettlebell alternating row",
+        "equipment":  "kettlebell"
+    },
+    {
+        "id":  "0533",
+        "name":  "kettlebell front squat",
+        "equipment":  "kettlebell"
+    },
+    {
+        "id":  "0534",
+        "name":  "kettlebell goblet squat",
+        "equipment":  "kettlebell"
+    },
+    {
+        "id":  "0536",
+        "name":  "kettlebell lunge pass through",
+        "equipment":  "kettlebell"
+    },
+    {
+        "id":  "0539",
+        "name":  "kettlebell one arm military press to the side",
+        "equipment":  "kettlebell"
+    },
+    {
+        "id":  "0541",
+        "name":  "kettlebell one arm row",
+        "equipment":  "kettlebell"
+    },
+    {
+        "id":  "0544",
+        "name":  "kettlebell pistol squat",
+        "equipment":  "kettlebell"
+    },
+    {
+        "id":  "1438",
+        "name":  "kettlebell seated two arm military press",
+        "equipment":  "kettlebell"
+    },
+    {
+        "id":  "0551",
+        "name":  "kettlebell turkish get up (squat style)",
+        "equipment":  "kettlebell"
+    },
+    {
+        "id":  "0553",
+        "name":  "kettlebell two arm military press",
+        "equipment":  "kettlebell"
+    },
+    {
+        "id":  "1345",
+        "name":  "kettlebell two arm row",
+        "equipment":  "kettlebell"
+    },
+    {
+        "id":  "1420",
+        "name":  "kneeling jump squat",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0571",
+        "name":  "lever alternating narrow grip seated row",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0574",
+        "name":  "lever bent over row",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "3200",
+        "name":  "lever bent-over row with v-bar",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0575",
+        "name":  "lever bicep curl",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0578",
+        "name":  "lever deadlift",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "1615",
+        "name":  "lever hammer grip preacher curl",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0581",
+        "name":  "lever high row",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0582",
+        "name":  "lever kneeling leg curl",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0586",
+        "name":  "lever lying leg curl",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "3195",
+        "name":  "lever lying two-one leg curl",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0587",
+        "name":  "lever military press",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0588",
+        "name":  "lever narrow grip seated row",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0589",
+        "name":  "lever one arm bent over row",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1356",
+        "name":  "lever one arm lateral high row",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0590",
+        "name":  "lever one arm shoulder press",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0592",
+        "name":  "lever preacher curl",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "1614",
+        "name":  "lever preacher curl v. 2",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "1616",
+        "name":  "lever reverse grip preacher curl",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "1348",
+        "name":  "lever reverse grip vertical row",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "1349",
+        "name":  "lever reverse t-bar row",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0599",
+        "name":  "lever seated leg curl",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "1350",
+        "name":  "lever seated row",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "1385",
+        "name":  "lever seated squat calf raise on leg press machine",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0603",
+        "name":  "lever shoulder press",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0869",
+        "name":  "lever shoulder press v. 2",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "2318",
+        "name":  "lever shoulder press v. 3",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0606",
+        "name":  "lever t bar row",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "1351",
+        "name":  "lever t-bar reverse grip row",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "1313",
+        "name":  "lever unilateral row",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "1352",
+        "name":  "lower back curl",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3582",
+        "name":  "lunge with jump",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1688",
+        "name":  "lunge with twist",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1353",
+        "name":  "medicine ball catch and overhead throw",
+        "equipment":  "medicine ball"
+    },
+    {
+        "id":  "1750",
+        "name":  "medicine ball supine chest throw",
+        "equipment":  "medicine ball"
+    },
+    {
+        "id":  "2328",
+        "name":  "narrow push-up on exercise ball",
+        "equipment":  "stability ball"
+    },
+    {
+        "id":  "0636",
+        "name":  "olympic barbell hammer curl",
+        "equipment":  "olympic barbell"
+    },
+    {
+        "id":  "1773",
+        "name":  "one arm towel row",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1476",
+        "name":  "one leg squat",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3119",
+        "name":  "potty squat",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3132",
+        "name":  "potty squat with support",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3123",
+        "name":  "resistance band seated biceps curl",
+        "equipment":  "resistance band"
+    },
+    {
+        "id":  "3122",
+        "name":  "resistance band seated shoulder press",
+        "equipment":  "resistance band"
+    },
+    {
+        "id":  "3144",
+        "name":  "resistance band seated straight back row",
+        "equipment":  "resistance band"
+    },
+    {
+        "id":  "0697",
+        "name":  "self assisted inverse leg curl",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1766",
+        "name":  "self assisted inverse leg curl",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0696",
+        "name":  "self assisted inverse leg curl (on floor)",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3222",
+        "name":  "semi squat jump (male)",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1759",
+        "name":  "single leg squat (pistol) male",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1489",
+        "name":  "sissy squat",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0741",
+        "name":  "sled closer hack squat",
+        "equipment":  "sled machine"
+    },
+    {
+        "id":  "0743",
+        "name":  "sled hack squat",
+        "equipment":  "sled machine"
+    },
+    {
+        "id":  "0744",
+        "name":  "sled lying squat",
+        "equipment":  "sled machine"
+    },
+    {
+        "id":  "0748",
+        "name":  "smith bench press",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "1359",
+        "name":  "smith bent over row",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0750",
+        "name":  "smith chair squat",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0751",
+        "name":  "smith close-grip bench press",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0752",
+        "name":  "smith deadlift",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0753",
+        "name":  "smith decline bench press",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "1433",
+        "name":  "smith front squat (clean grip)",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "3281",
+        "name":  "smith full squat",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0755",
+        "name":  "smith hack squat",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0757",
+        "name":  "smith incline bench press",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "1434",
+        "name":  "smith low bar squat",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "1683",
+        "name":  "smith machine bicep curl",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "1625",
+        "name":  "smith machine decline close grip bench press",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "1626",
+        "name":  "smith machine reverse decline close grip bench press",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0761",
+        "name":  "smith narrow row",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "1360",
+        "name":  "smith one arm row",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0762",
+        "name":  "smith rear delt row",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "1361",
+        "name":  "smith reverse grip bent over row",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0765",
+        "name":  "smith seated shoulder press",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "1426",
+        "name":  "smith seated wrist curl",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0766",
+        "name":  "smith shoulder press",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0768",
+        "name":  "smith single leg split squat",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0769",
+        "name":  "smith sprint lunge",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0770",
+        "name":  "smith squat",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0771",
+        "name":  "smith standing back wrist curl",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0772",
+        "name":  "smith standing behind head military press",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0774",
+        "name":  "smith standing military press",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "3142",
+        "name":  "smith sumo squat",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0775",
+        "name":  "smith upright row",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "1308",
+        "name":  "smith wide grip bench press",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "1309",
+        "name":  "smith wide grip decline bench press",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "2368",
+        "name":  "split squats",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0786",
+        "name":  "squat jerk",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1705",
+        "name":  "squat on bosu ball",
+        "equipment":  "bosu ball"
+    },
+    {
+        "id":  "1685",
+        "name":  "squat to overhead reach",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1686",
+        "name":  "squat to overhead reach with twist",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0795",
+        "name":  "standing single leg curl",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0808",
+        "name":  "suspended row",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0809",
+        "name":  "suspended split squat",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0811",
+        "name":  "trap bar deadlift",
+        "equipment":  "trap bar"
+    },
+    {
+        "id":  "3655",
+        "name":  "walking high knees lunge",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1460",
+        "name":  "walking lunge",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3643",
+        "name":  "weighted cossack squats (male)",
+        "equipment":  "weighted"
+    },
+    {
+        "id":  "3644",
+        "name":  "weighted lunge with swing",
+        "equipment":  "weighted"
+    },
+    {
+        "id":  "0847",
+        "name":  "weighted seated bicep curl (on stability ball)",
+        "equipment":  "medicine ball"
+    },
+    {
+        "id":  "0851",
+        "name":  "weighted sissy squat",
+        "equipment":  "weighted"
+    },
+    {
+        "id":  "0852",
+        "name":  "weighted squat",
+        "equipment":  "weighted"
+    },
+    {
+        "id":  "0853",
+        "name":  "weighted standing curl",
+        "equipment":  "weighted"
+    },
+    {
+        "id":  "3642",
+        "name":  "weighted stretch lunge",
+        "equipment":  "weighted"
+    }
+]

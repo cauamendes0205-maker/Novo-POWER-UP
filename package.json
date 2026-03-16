@@ -1,0 +1,34 @@
+{
+  "name": "powerup-fitness",
+  "version": "1.0.0",
+  "description": "PowerUp Fitness App - Firebase Setup",
+  "main": "setup-database.js",
+  "scripts": {
+    "setup": "node setup-database.js",
+    "add-exercises": "node add-exercises.js",
+    "add-workouts": "node add-prebuilt-workouts.js",
+    "test": "node test-connection.js"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.19.11",
+    "@hono/zod-validator": "^0.7.6",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "firebase-admin": "^12.0.0",
+    "hono": "^4.12.5",
+    "puppeteer": "^24.37.5",
+    "zod": "^4.3.6"
+  },
+  "keywords": [
+    "fitness",
+    "firebase",
+    "firestore"
+  ],
+  "author": "Pedro",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^25.3.5",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

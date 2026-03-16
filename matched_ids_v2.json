@@ -1,0 +1,1092 @@
+﻿[
+    {
+        "id":  "0007",
+        "name":  "alternate lateral pulldown",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0009",
+        "name":  "assisted chest dip (kneeling)",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0018",
+        "name":  "assisted standing triceps extension (with towel)",
+        "equipment":  "assisted"
+    },
+    {
+        "id":  "0019",
+        "name":  "assisted triceps dip (kneeling)",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "2364",
+        "name":  "assisted wide-grip chest dip (kneeling)",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "1314",
+        "name":  "back extension on exercise ball",
+        "equipment":  "stability ball"
+    },
+    {
+        "id":  "0980",
+        "name":  "band bent-over hip extension",
+        "equipment":  "band"
+    },
+    {
+        "id":  "0974",
+        "name":  "band close-grip pulldown",
+        "equipment":  "band"
+    },
+    {
+        "id":  "3117",
+        "name":  "band fixed back close grip pulldown",
+        "equipment":  "band"
+    },
+    {
+        "id":  "3116",
+        "name":  "band fixed back underhand pulldown",
+        "equipment":  "band"
+    },
+    {
+        "id":  "0977",
+        "name":  "band front lateral raise",
+        "equipment":  "band"
+    },
+    {
+        "id":  "0983",
+        "name":  "band kneeling one arm pulldown",
+        "equipment":  "band"
+    },
+    {
+        "id":  "0993",
+        "name":  "band reverse fly",
+        "equipment":  "band"
+    },
+    {
+        "id":  "0998",
+        "name":  "band side triceps extension",
+        "equipment":  "band"
+    },
+    {
+        "id":  "1013",
+        "name":  "band underhand pulldown",
+        "equipment":  "band"
+    },
+    {
+        "id":  "1720",
+        "name":  "barbell lying back of the head tricep extension",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0056",
+        "name":  "barbell lying close-grip triceps extension",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0057",
+        "name":  "barbell lying extension",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0061",
+        "name":  "barbell lying triceps extension",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0060",
+        "name":  "barbell lying triceps extension skull crusher",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0086",
+        "name":  "barbell seated behind head military press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1718",
+        "name":  "barbell seated close grip behind neck triceps extension",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0092",
+        "name":  "barbell seated overhead triceps extension",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1456",
+        "name":  "barbell standing close grip military press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0109",
+        "name":  "barbell standing overhead triceps extension",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "1457",
+        "name":  "barbell standing wide military press",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "0129",
+        "name":  "bench dip (knees bent)",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1399",
+        "name":  "bench dip on floor",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0130",
+        "name":  "bench hip extension",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1771",
+        "name":  "bodyweight kneeling triceps extension",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "2466",
+        "name":  "bridge - mountain climber (cross body)",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1494",
+        "name":  "butterfly yoga pose",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0149",
+        "name":  "cable alternate triceps extension",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0150",
+        "name":  "cable bar lateral pulldown",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0152",
+        "name":  "cable concentration extension (on knee)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0153",
+        "name":  "cable cross-over lateral pulldown",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0154",
+        "name":  "cable cross-over revers fly",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0155",
+        "name":  "cable cross-over variation",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0158",
+        "name":  "cable decline fly",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1722",
+        "name":  "cable high pulley overhead tricep extension",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0171",
+        "name":  "cable incline fly",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0170",
+        "name":  "cable incline fly (on stability ball)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0173",
+        "name":  "cable incline triceps extension",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0176",
+        "name":  "cable kneeling triceps extension",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "2330",
+        "name":  "cable lat pulldown full range of motion",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0177",
+        "name":  "cable lateral pulldown (with rope attachment)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "2616",
+        "name":  "cable lateral pulldown with v-bar",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0178",
+        "name":  "cable lateral raise",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0179",
+        "name":  "cable low fly",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0184",
+        "name":  "cable lying extension pullover (with rope attachment)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0185",
+        "name":  "cable lying fly",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0186",
+        "name":  "cable lying triceps extension v. 2",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0188",
+        "name":  "cable middle fly",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1262",
+        "name":  "cable one arm decline chest fly",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1263",
+        "name":  "cable one arm fly on exercise ball",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1264",
+        "name":  "cable one arm incline fly on exercise ball",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0192",
+        "name":  "cable one arm lateral raise",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "3563",
+        "name":  "cable one arm pulldown",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0194",
+        "name":  "cable overhead triceps extension (rope attachment)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0198",
+        "name":  "cable pulldown",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0197",
+        "name":  "cable pulldown (pro lat bar)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1638",
+        "name":  "cable pulldown bicep curl",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0205",
+        "name":  "cable rear pulldown",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1320",
+        "name":  "cable rope crossover seated row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1322",
+        "name":  "cable rope extension incline bench row",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1724",
+        "name":  "cable rope high pulley overhead tricep extension",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1725",
+        "name":  "cable rope incline tricep extension",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1726",
+        "name":  "cable rope lying on floor tricep extension",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0215",
+        "name":  "cable seated rear lateral raise",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0225",
+        "name":  "cable standing cross-over high reverse fly",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0227",
+        "name":  "cable standing fly",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0228",
+        "name":  "cable standing hip extension",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0231",
+        "name":  "cable standing one arm triceps extension",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0232",
+        "name":  "cable standing pulldown (with rope)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1727",
+        "name":  "cable standing reverse grip one arm overhead tricep extension",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1269",
+        "name":  "cable standing up straight crossovers",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0238",
+        "name":  "cable straight arm pulldown",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0237",
+        "name":  "cable straight arm pulldown (with rope)",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0240",
+        "name":  "cable supine reverse fly",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0245",
+        "name":  "cable underhand pulldown",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1270",
+        "name":  "cable upper chest crossovers",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "1325",
+        "name":  "cable wide grip rear pulldown behind neck",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "0251",
+        "name":  "chest dip",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1430",
+        "name":  "chest dip (on dip-pull-up cage)",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "2462",
+        "name":  "chest dip on straight bar",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0262",
+        "name":  "cross body crunch",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "2331",
+        "name":  "cycle cross trainer",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0298",
+        "name":  "dumbbell cross body hammer curl",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1657",
+        "name":  "dumbbell cross body hammer curl v. 2",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0302",
+        "name":  "dumbbell decline fly",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1276",
+        "name":  "dumbbell decline one arm fly",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0306",
+        "name":  "dumbbell decline triceps extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0307",
+        "name":  "dumbbell decline twist fly",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0308",
+        "name":  "dumbbell fly",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1277",
+        "name":  "dumbbell fly on exercise ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1732",
+        "name":  "dumbbell forward lunge triceps extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0311",
+        "name":  "dumbbell full can lateral raise",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0319",
+        "name":  "dumbbell incline fly",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1278",
+        "name":  "dumbbell incline fly on exercise ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1279",
+        "name":  "dumbbell incline one arm fly",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1280",
+        "name":  "dumbbell incline one arm fly on exercise ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0323",
+        "name":  "dumbbell incline one arm lateral raise",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0326",
+        "name":  "dumbbell incline rear lateral raise",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0330",
+        "name":  "dumbbell incline triceps extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0331",
+        "name":  "dumbbell incline twisted flyes",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1733",
+        "name":  "dumbbell incline two arm extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0332",
+        "name":  "dumbbell iron cross",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0334",
+        "name":  "dumbbell lateral raise",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0337",
+        "name":  "dumbbell lying extension (across face)",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1729",
+        "name":  "dumbbell lying alternate extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0344",
+        "name":  "dumbbell lying one arm pronated triceps extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0345",
+        "name":  "dumbbell lying one arm rear lateral raise",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0346",
+        "name":  "dumbbell lying one arm supinated triceps extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0348",
+        "name":  "dumbbell lying rear lateral raise",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1735",
+        "name":  "dumbbell lying single extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0351",
+        "name":  "dumbbell lying triceps extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1285",
+        "name":  "dumbbell one arm bench fly",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1286",
+        "name":  "dumbbell one arm chest fly on exercise ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1288",
+        "name":  "dumbbell one arm fly on exercise ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0355",
+        "name":  "dumbbell one arm lateral raise",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0356",
+        "name":  "dumbbell one arm lateral raise with support",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0359",
+        "name":  "dumbbell one arm reverse fly (with support)",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0362",
+        "name":  "dumbbell one arm triceps extension (on bench)",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1292",
+        "name":  "dumbbell one leg fly on exercise ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0373",
+        "name":  "dumbbell pronate-grip triceps extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1294",
+        "name":  "dumbbell pullover hip extension on exercise ball",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0378",
+        "name":  "dumbbell rear fly",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0380",
+        "name":  "dumbbell rear lateral raise",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0379",
+        "name":  "dumbbell rear lateral raise (support head)",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0383",
+        "name":  "dumbbell reverse fly",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0386",
+        "name":  "dumbbell rotation reverse fly",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0389",
+        "name":  "dumbbell seated bench extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "2317",
+        "name":  "dumbbell seated bent arm lateral raise",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1737",
+        "name":  "dumbbell seated bent over triceps extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0396",
+        "name":  "dumbbell seated lateral raise",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0395",
+        "name":  "dumbbell seated lateral raise v. 2",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1738",
+        "name":  "dumbbell seated reverse grip one arm overhead tricep extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "2188",
+        "name":  "dumbbell seated triceps extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "3664",
+        "name":  "dumbbell side plank with rear fly",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1740",
+        "name":  "dumbbell standing bent over one arm triceps extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1741",
+        "name":  "dumbbell standing bent over two arm triceps extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0423",
+        "name":  "dumbbell standing one arm extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0430",
+        "name":  "dumbbell standing triceps extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "2189",
+        "name":  "dumbbells seated triceps extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "3287",
+        "name":  "elbow dips",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1333",
+        "name":  "exercise ball back extension with arms extended",
+        "equipment":  "stability ball"
+    },
+    {
+        "id":  "1334",
+        "name":  "exercise ball back extension with hands behind head",
+        "equipment":  "stability ball"
+    },
+    {
+        "id":  "1335",
+        "name":  "exercise ball back extension with knees off ground",
+        "equipment":  "stability ball"
+    },
+    {
+        "id":  "1336",
+        "name":  "exercise ball back extension with rotation",
+        "equipment":  "stability ball"
+    },
+    {
+        "id":  "1744",
+        "name":  "exercise ball dip",
+        "equipment":  "stability ball"
+    },
+    {
+        "id":  "1746",
+        "name":  "exercise ball supine triceps extension",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "1748",
+        "name":  "ez bar lying close grip triceps extension behind head",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "2186",
+        "name":  "ez barbell decline triceps extension",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "0449",
+        "name":  "ez barbell incline triceps extension",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "0453",
+        "name":  "ez barbell seated triceps extension",
+        "equipment":  "ez barbell"
+    },
+    {
+        "id":  "0458",
+        "name":  "floor fly (with barbell)",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "3234",
+        "name":  "hyght dumbbell fly",
+        "equipment":  "dumbbell"
+    },
+    {
+        "id":  "0489",
+        "name":  "hyperextension",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0488",
+        "name":  "hyperextension (on bench)",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3289",
+        "name":  "impossible dips",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1419",
+        "name":  "iron cross stretch",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0539",
+        "name":  "kettlebell one arm military press to the side",
+        "equipment":  "kettlebell"
+    },
+    {
+        "id":  "1438",
+        "name":  "kettlebell seated two arm military press",
+        "equipment":  "kettlebell"
+    },
+    {
+        "id":  "0553",
+        "name":  "kettlebell two arm military press",
+        "equipment":  "kettlebell"
+    },
+    {
+        "id":  "3288",
+        "name":  "korean dips",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3237",
+        "name":  "landmine lateral raise",
+        "equipment":  "barbell"
+    },
+    {
+        "id":  "2287",
+        "name":  "lever alternate leg press",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0573",
+        "name":  "lever back extension",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0579",
+        "name":  "lever front pulldown",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "2286",
+        "name":  "lever hip extension v. 2",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "2611",
+        "name":  "lever horizontal one leg press",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0584",
+        "name":  "lever lateral raise",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0585",
+        "name":  "lever leg extension",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0587",
+        "name":  "lever military press",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "1347",
+        "name":  "lever one arm lateral wide pulldown",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0591",
+        "name":  "lever overhand triceps dip",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "2736",
+        "name":  "lever reverse grip lateral pulldown",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0593",
+        "name":  "lever reverse hyperextension",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "1451",
+        "name":  "lever seated dip",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0596",
+        "name":  "lever seated fly",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0602",
+        "name":  "lever seated reverse fly",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0601",
+        "name":  "lever seated reverse fly (parallel grip)",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "1385",
+        "name":  "lever seated squat calf raise on leg press machine",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0607",
+        "name":  "lever triceps extension",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0637",
+        "name":  "olympic barbell triceps extension",
+        "equipment":  "olympic barbell"
+    },
+    {
+        "id":  "0639",
+        "name":  "one arm dip",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3007",
+        "name":  "resistance band leg extension",
+        "equipment":  "resistance band"
+    },
+    {
+        "id":  "0672",
+        "name":  "reverse dip",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0673",
+        "name":  "reverse grip machine lat pulldown",
+        "equipment":  "leverage machine"
+    },
+    {
+        "id":  "0675",
+        "name":  "reverse hyper extension (on stability ball)",
+        "equipment":  "stability ball"
+    },
+    {
+        "id":  "0677",
+        "name":  "ring dips",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0678",
+        "name":  "rocky pull-up pulldown",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "3012",
+        "name":  "scapula dips",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "1425",
+        "name":  "sled 45 degrees one leg press",
+        "equipment":  "sled machine"
+    },
+    {
+        "id":  "0739",
+        "name":  "sled 45в° leg press",
+        "equipment":  "sled machine"
+    },
+    {
+        "id":  "1464",
+        "name":  "sled 45в° leg press (back pov)",
+        "equipment":  "sled machine"
+    },
+    {
+        "id":  "1463",
+        "name":  "sled 45° leg press (side pov)",
+        "equipment":  "sled machine"
+    },
+    {
+        "id":  "1391",
+        "name":  "sled calf press on leg press",
+        "equipment":  "sled machine"
+    },
+    {
+        "id":  "1392",
+        "name":  "sled one leg calf press on leg press",
+        "equipment":  "sled machine"
+    },
+    {
+        "id":  "0760",
+        "name":  "smith leg press",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "1752",
+        "name":  "smith machine incline tricep extension",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0772",
+        "name":  "smith standing behind head military press",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "0774",
+        "name":  "smith standing military press",
+        "equipment":  "smith machine"
+    },
+    {
+        "id":  "1753",
+        "name":  "three bench dip",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0814",
+        "name":  "triceps dip",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0812",
+        "name":  "triceps dip (bench leg)",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0813",
+        "name":  "triceps dip (between benches)",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0815",
+        "name":  "triceps dips floor",
+        "equipment":  "body weight"
+    },
+    {
+        "id":  "0818",
+        "name":  "twin handle parallel grip lat pulldown",
+        "equipment":  "cable"
+    },
+    {
+        "id":  "2141",
+        "name":  "walk elliptical cross trainer",
+        "equipment":  "elliptical machine"
+    },
+    {
+        "id":  "0830",
+        "name":  "weighted bench dip",
+        "equipment":  "weighted"
+    },
+    {
+        "id":  "2987",
+        "name":  "weighted close grip chin-up on dip cage",
+        "equipment":  "weighted"
+    },
+    {
+        "id":  "0835",
+        "name":  "weighted hyperextension (on stability ball)",
+        "equipment":  "weighted"
+    },
+    {
+        "id":  "3313",
+        "name":  "weighted straight bar dip",
+        "equipment":  "weighted"
+    },
+    {
+        "id":  "1754",
+        "name":  "weighted three bench dips",
+        "equipment":  "weighted"
+    },
+    {
+        "id":  "1755",
+        "name":  "weighted tricep dips",
+        "equipment":  "weighted"
+    },
+    {
+        "id":  "1767",
+        "name":  "weighted triceps dip on high parallel bars",
+        "equipment":  "weighted"
+    },
+    {
+        "id":  "2363",
+        "name":  "wide-grip chest dip on high parallel bars",
+        "equipment":  "body weight"
+    }
+]
